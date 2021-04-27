@@ -20,6 +20,9 @@ const IndexPage = () => (
       <h6>MILESTONE 2</h6>
       <a href="https://drive.google.com/file/d/15LfYd6_YNMiDHbUdeFONekxz3E-YjU1k/view?usp=sharing">Windows Zip</a>
     </p>
+
+    <h6>Class Demo</h6>
+    <a href="https://drive.google.com/file/d/1b2W_Yu5VWFruFVnIUzXyKvpdF-RQuOzF/view?usp=sharing">Windows .exe</a>
   </Layout>
 )
 
