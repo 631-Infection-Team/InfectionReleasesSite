@@ -22,7 +22,7 @@ const IndexPage = () => (
     </p>
 
     <h6>Class Demo</h6>
-    <a href="https://drive.google.com/file/d/1b2W_Yu5VWFruFVnIUzXyKvpdF-RQuOzF/view?usp=sharing">Windows .exe</a>
+    <a href="https://drive.google.com/drive/folders/1a9vc3LD9AJy686RMeoucrMqoNNexFPRo?usp=sharing">Windows zip</a>
   </Layout>
 )
 
