@@ -13,7 +13,7 @@ const IndexPage = () => (
  
 
     <p>
-      <a href="https://drive.google.com/file/d/1KG9NoqPvzHj0vtAsjw7uyhNB00CKKrZu/view?usp=sharing">MAC OS Zip</a> <br />
+      <a href="https://drive.google.com/file/d/1N6l1kq6Ym2R4X0bxuGgtYUknU-yQsxfB/view?usp=sharing">MAC OS Zip</a> <br />
       <a href="https://drive.google.com/file/d/1QS6EYMpK6dV46QbvkEun8EaeZqHmEaL0/view?usp=sharing">Windows Zip</a>
     </p>
     <p>
